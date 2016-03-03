@@ -1,0 +1,7 @@
+{
+  "name": "AspNet5Site",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "*"
+  }
+}
